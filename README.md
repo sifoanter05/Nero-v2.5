@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/nchFWHnV/Picsart-25-09-05-03-11-55-239.png" alt="Nero Bot Banner" width="700"/>
+  <img src="https://i.postimg.cc/nzjBkXbw/660.jpg" alt="Nero Bot Banner" width="700"/>
 </p>
 
 <h1 align="center">✨ NeroBot V2 ✨</h1>
