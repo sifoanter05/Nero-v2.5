@@ -29,7 +29,7 @@
 
 ## 🖼️ واجهة التشغيل (Console)
 <p align="center">
-  <img src="https://i.postimg.cc/6Q2LfJ8Y/Screenshot-2025-09-04-04-17-04-376-com-android-chrome-2.jpg" alt="Console Preview" width="500"/>
+  <img src="https://i.postimg.cc/43FFyH1f/photo-2025-10-09-21-28-20.jpg" alt="Console Preview" width="500"/>
 </p>
 
 ---
